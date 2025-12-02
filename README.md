@@ -30,7 +30,7 @@ A real-time collaborative workspace application for forex trading, built with th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/BTC415/Real-time-Forex-MERN.git
+git clone <this-repo-url>
 cd Real-time-Forex-MERN
 ```
 
